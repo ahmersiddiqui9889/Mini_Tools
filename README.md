@@ -1,4 +1,4 @@
-# Mini_Tools
+# Mini_Tools 🔨
 
 This repository contains mini tools for your requirements like - number guesser, stone-paper-scissior, snake game, calculator, password generator etc.
 
