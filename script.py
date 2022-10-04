@@ -1,13 +1,23 @@
-/*
+'''
 Snake Game
 Author - 
 - set sound=True for sound
-*/
+'''
+
+# by peppergreen00
+
+'''
+Author_Notes
+for sound :-
+- set sound=True
+- uncomment the import playsound
+- replace the location given below with the absolute position of the sound files
+'''
 
 import turtle
 from random import randrange,choice
 import time
-from playsound import playsound
+# from playsound import playsound
 
 sound = False
 
