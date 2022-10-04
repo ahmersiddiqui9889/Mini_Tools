@@ -6,7 +6,7 @@ This repository contains mini tools for your requirements like - number guesser,
 [**Mini_Games**](/Mini_Games)👾: This folder contains mini games.
 
 ## 👨🏻‍💻 How to contribute?
-[**IDEAS.md**]💡(/IDEAS.md): Contains ideas for tools that can be made.
+[**IDEAS.md**](/IDEAS.md)💡: Contains ideas for tools that can be made.
 🤝 You can make the programs which can help other people.
 💭 You can also refer to IDEAS.md for topics. If you have any other idea, you can also update it to IDEAS.md file
 
