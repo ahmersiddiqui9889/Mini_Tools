@@ -8,7 +8,7 @@ This repository contains **mini programs** for your requirements like - _number 
 ## 👨🏻‍💻 How to contribute?
 💡 [**IDEAS.md**](/IDEAS.md): Contains ideas for tools that can be made. <br>
 🤝 You can make the programs which can help other people. <br>
-❓ You can also refer to IDEAS.md for topics. 
+❓ You can also refer to IDEAS.md for topics. <br>
 💭 If you have any other idea, you can also update it to IDEAS.md file
 
 #### <i>Contributions are always welcome! 🫂<br>
