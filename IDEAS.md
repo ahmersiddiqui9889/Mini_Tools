@@ -6,7 +6,7 @@
 - [randnum.c](/Tools/random_number) by [hypernovaradiation](https://github.com/hypernovaradiation)<br>
 - [randomnum.py](/Tools/random_number) by [Isurugunarathne](https://github.com/IsuruGunarathne)
 ### 4. Flappy Birds
-### 5. Random Number Generator
+### 5. Stone Paper Scissor
 ### 6. Single Dice / Dual Dice
 ### 7. Calculator
 ### 8. Journal Maker
