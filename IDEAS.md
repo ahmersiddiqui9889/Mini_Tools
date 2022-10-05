@@ -1,6 +1,6 @@
 ### 1. Snake Game
 <sup>- [snake](/snake) by [peppergreen00](https://github.com/peppergreen00)</sup>
-###  Number Guesser
+### 2. Number Guesser
 <sup>- [guess](/guess) by [hypernovaradiation](https://github.com/hypernovaradiation)
 ### 3. Random Number Generator
 ### 4. Flappy Birds
