@@ -16,6 +16,8 @@ _Game in which user will play stone paper scissors with the bot_
 _A tool which can help when their is no dice for playing a game like backgammon_
 ### 7. Calculator
 _A simple calculator (GUI / Non GUI)_
+- [Arithmetic-Calculator.c](/Tools/Calculator/Arithmetic-Calculator.c) by [Silky1099](https://github.com/Silky1099)
+- [arithmeticCalculator.java](/Tools/Calculator/arithmeticCalculator.java) by [Silky1099](https://github.com/Silky1099)
 ### 8. Journal Maker
 _A simple note taking program which when openned, appends with the lines with current date and time_
 ### 9. Bulk Rename
