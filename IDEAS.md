@@ -3,8 +3,8 @@
 ### 2. Number Guesser
 <sup>- [guess.c](/Games/guessing_game) by [hypernovaradiation](https://github.com/hypernovaradiation)</sup>
 ### 3. Random Number Generator
-<sup>- [randnum.c](/Tools/random_number) by [hypernovaradiation](https://github.com/hypernovaradiation)
-<sup>- [randomnum.py](/Tools/random_number) by [Isurugunarathne](https://github.com/IsuruGunarathne)
+<sup>- [randnum.c](/Tools/random_number) by [hypernovaradiation](https://github.com/hypernovaradiation)<br>
+[randomnum.py](/Tools/random_number) by [Isurugunarathne](https://github.com/IsuruGunarathne)</sup>
 ### 4. Flappy Birds
 ### 5. Random Number Generator
 ### 6. Single Dice / Dual Dice
