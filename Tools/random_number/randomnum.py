@@ -1,8 +1,13 @@
+# Author - IsuruGunarathne
+
+# Both numbers inclusive
+
+
 import random
 
 def generate_random_number(lowerlimit, upperlimit):
     # generate a random number between lowerlimit and upperlimit
-    randomnum = random.randint(lowerlimit, upperlimit)
+    randomnum = random.randint(lowerlimit, upperlimit+1)
     return randomnum
 
 def main():
