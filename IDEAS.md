@@ -1,7 +1,7 @@
 ### 1. Snake Game
-<sup>[snake](/snake) by [peppergreen00](https://github.com/peppergreen00)</sup>
+<sup>i. [snake](/snake) by [peppergreen00](https://github.com/peppergreen00)</sup>
 ### 2. Number Guesser
-<sup>[guess](/guess) by [hypernovaradiation](https://github.com/hypernovaradiation)
+<sup>i. [guess](/guess) by [hypernovaradiation](https://github.com/hypernovaradiation)
 ### 3. Random Number Generator
 ### 4. Flappy Birds
 ### 5. Random Number Generator
