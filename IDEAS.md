@@ -9,7 +9,7 @@ _A random number generator_
 - [randnum.c](/Tools/random_number) by [hypernovaradiation](https://github.com/hypernovaradiation)<br>
 - [randomnum.py](/Tools/random_number) by [Isurugunarathne](https://github.com/IsuruGunarathne)
 ### 4. Flappy Birds
-_A classic game in which user have to tap/click to make the bird fly and make their way to obstacles_
+_A classic game in which user have to tap/click to make the bird fly and make their way through obstacles_
 ### 5. Stone Paper Scissor
 _Game in which user will play stone paper scissors with the bot_
 ### 6. Dual Dice
