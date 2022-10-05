@@ -1,10 +1,8 @@
 '''
 Snake Game
-Author - 
+Author - peppergreen00
 - set sound=True for sound
 '''
-
-# by peppergreen00
 
 '''
 Author_Notes
