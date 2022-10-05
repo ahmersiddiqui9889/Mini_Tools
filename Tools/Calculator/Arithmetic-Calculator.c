@@ -1,5 +1,7 @@
 /*
 This program can be used to perform the most basic arithmetic operations (addition, subtraction, multiplication, division) on two digits
+
+by Silky1099
 */
 
 #include<stdio.h>
