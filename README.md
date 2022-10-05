@@ -3,7 +3,7 @@
 This repository contains **mini programs** for your requirements like - _number guesser, stone-paper-scissior, snake game, calculator, password generator etc._
 
 🛠️ [**Tools**](/Tools): This folder contains basic programs which can be useful.<br>
-👾 [**Mini_Games**](/Games): This folder contains mini games.
+👾 [**Games**](/Games): This folder contains mini games.
 
 ## 👨🏻‍💻 How to contribute?
 💡 [**IDEAS.md**](/IDEAS.md): Contains ideas for tools that can be made. <br>
