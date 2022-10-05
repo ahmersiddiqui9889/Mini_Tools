@@ -11,10 +11,12 @@ _A random number generator_
 - [randomnum.py](/Tools/random_number) by [Isurugunarathne](https://github.com/IsuruGunarathne/randomnum.py)
 ### 4. Flappy Birds
 _A classic game in which user have to tap/click to make the bird fly and make their way through obstacles_
-### 5. Stone Paper Scissor
+### 5. Rock Paper Scissor
 _Game in which user will play stone paper scissors with the bot_
+- [rock_paper_scissors.py](/Games/rock_paper_scissors/rock_paper_scissors.py) by [DanielJ-OBrien](https://github.com/DanielJ-OBrien)
 ### 6. Dual Dice
 _A tool which can help when their is no dice for playing a game like backgammon_
+- [dice_roller.py](/Tools/dice_roller/dice_roller.py) by [DanielJ-OBrien](https://github.com/DanielJ-OBrien)
 ### 7. Calculator
 _A simple calculator (GUI / Non GUI)_
 - [arithmetic_calculator.c](/Tools/Calculator/Arithmetic-Calculator.c) by [Silky1099](https://github.com/Silky1099)
