@@ -47,5 +47,18 @@ _Classic Tic Tac Toe game_<br>
 &emsp;&emsp;[tictactoe](/Games/tic_tac_toe/tictactoe.py) by [anjalibarnwal31](https://github.com/anjalibarnwal31)<br>
 
 <b> 8. Dice Roller </b><br>
-_Dice rolling program for generating random numbers as per requirement_
+_Dice rolling program for generating random numbers as per requirement_<br>
 &emsp;&emsp;[dice_roller](/Tools/dice_roller/dice_roller.py) by [Daniel Jake O'Brien](https://github.com/DanielJ-OBrien)
+
+<b> 9. Youtube Downloader </b><br>
+_Download youtube videos just by providing youtube link_<br>
+&emsp;&emsp;[youtube_downloader](/Tools/youtube_downloader/main.py) by [Nitin Kumar](https://github.com/nitinkumar30)
+
+<b> 10. Black Jack Game </b><br>
+_Card game whose object is to be dealt cards having a higher count than those of the dealer, up to but not exceeding 21_<br>
+&emsp;&emsp;[black_jack](/Tools/black_jack/black_jack.py) by [Akshat Bhat](https://github.com/AkshatBhat)
+
+<b> 11. Gmail Dictionary Attack </b><br>
+_Script to perform Bruteforce attack/Dictionary attack on Gmail_<br>
+&emsp;&emsp;[dictionary_attack](/Tools/dictionary_attack/main.py) by [Nitin Kumar](https://github.com/nitinkumar30)
+
