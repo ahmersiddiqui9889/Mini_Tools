@@ -15,7 +15,7 @@ This repository contains **mini programs** for your requirements like - _number 
 No matter how insignificant or miniscule contribution you make, it will be always appreciated.</i>
 ## Thankyou 😊
 
-## Ideas for Games -
+## Ideas for Games
 #### 1. Snake Game
 _Classic game in which a snake turns using the up,down,left,right keys._
 - [snake.py](/Games/snake_game/snake.py) by [peppergreen00](https://github.com/peppergreen00)
