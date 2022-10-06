@@ -6,7 +6,7 @@ This repository contains **mini programs** for your requirements like - _number 
 👾 [**Games**](/Games): This folder contains mini games.
 
 ## 👨🏻‍💻 How to contribute?
-💡 [IDEAS](## IDEAS): Contains ideas for tools that can be made. <br>
+💡 [Ideas for Games](#ideas-for-games): Contains ideas for tools that can be made. <br>
 🤝 You can make the programs which can help other people. <br>
 ❓ You can also refer to IDEAS.md for topics. <br>
 💭 If you have any other idea, you can also update it to IDEAS.md file
@@ -15,6 +15,7 @@ This repository contains **mini programs** for your requirements like - _number 
 No matter how insignificant or miniscule contribution you make, it will be always appreciated.</i>
 ## Thankyou 😊
 
+## Ideas for Games -
 #### 1. Snake Game
 _Classic game in which a snake turns using the up,down,left,right keys._
 - [snake.py](/Games/snake_game/snake.py) by [peppergreen00](https://github.com/peppergreen00)
