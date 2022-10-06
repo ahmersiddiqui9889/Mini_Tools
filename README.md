@@ -8,12 +8,11 @@ This repository contains **mini programs** for your requirements like - _number 
 ## 👨🏻‍💻 How to contribute?
 💡 [Ideas for Games](#ideas-for-games): Contains ideas for tools that can be made. <br>
 🤝 You can make the programs which can help other people. <br>
-❓ You can also refer to IDEAS.md for topics. <br>
+❓ You can also refer to [Ideas](#ideas-for-games) section for topics. <br>
 💭 If you have any other idea, you can also update it to IDEAS.md file
 
 #### <i>Contributions are always welcome! 🫂<br>
 No matter how insignificant or miniscule contribution you make, it will be always appreciated.</i>
-## Thankyou 😊
 
 ## Ideas for Games
 #### 1. Snake Game
@@ -48,5 +47,3 @@ _..._
 #### 11. Tic Tac Toe
 _Classic Tic Tac Toe game_
 - [tictactoe](/Games/tic_tac_toe/tictactoe.py) by [anjalibarnwal31](https://github.com/anjalibarnwal31)
-
-
