@@ -11,7 +11,7 @@ This repository contains **mini programs** for your requirements like - _number 
 ❓ You can also refer to [Ideas](#ideas) for topics. <br>
 💭 If you have any other idea, you can also update it to Ideas section of readme.
 
-#### <i>Contributions are always welcome! 🫂<i><br>
+#### <i>Contributions are always welcome! 🫂</i><br>
 No matter how insignificant or miniscule contribution you make, it will be always appreciated.</i><br>
 ## Ideas
 <b> 1. Snake Game </b><br>
@@ -29,22 +29,23 @@ _A random number generator_<br>
 &emsp;&emsp;[randnum.c](/Tools/random_number) by [hypernovaradiation](https://github.com/hypernovaradiation/randnum.c)<br>
 &emsp;&emsp;[randomnum.py](/Tools/random_number) by [Isurugunarathne](https://github.com/IsuruGunarathne/randomnum.py)<br>
 
-<b> 5. Rock Paper Scissor </b><br>
+<b> 4. Rock Paper Scissor </b><br>
 _Game in which user will play stone paper scissors with the bot_<br>
-&emsp;&emsp;[rock_paper_scissors.py](/Games/rock_paper_scissors/rock_paper_scissors.py) by [DanielJ-OBrien](https://github.com/DanielJ-OBrien)<br>
+&emsp;&emsp;[rock_paper_scissors.py](/Games/rock_paper_scissors/rock_paper_scissors.py) by [Daniel Jake O'Brien](https://github.com/DanielJ-OBrien)<br>
 
-<b> 6. Dual Dice </b><br>
+<b> 5. Dual Dice </b><br>
 _A tool which can help when their is no dice for playing a game like backgammon_<br>
 &emsp;&emsp;[dice_roller.py](/Tools/dice_roller/dice_roller.py) by [DanielJ-OBrien](https://github.com/DanielJ-OBrien)<br>
 
-<b> 7. Calculator </b><br>
+<b> 6. Calculator </b><br>
 _A simple calculator (GUI / Non GUI)_<br>
 &emsp;&emsp;[arithmetic_calculator.c](/Tools/Calculator/Arithmetic-Calculator.c) by [Silky1099](https://github.com/Silky1099)<br>
 &emsp;&emsp;[arithmetic_calculator.java](/Tools/Calculator/arithmeticCalculator.java) by [Silky1099](https://github.com/Silky1099)<br>
 
-<b> 9. Bulk Rename </b><br>
-_A program to rename more than one files at once_<br>
-
-<b> 11. Tic Tac Toe </b><br>
+<b> 7. Tic Tac Toe </b><br>
 _Classic Tic Tac Toe game_<br>
 &emsp;&emsp;[tictactoe](/Games/tic_tac_toe/tictactoe.py) by [anjalibarnwal31](https://github.com/anjalibarnwal31)<br>
+
+<b> 8. Dice Roller </b><br>
+_Dice rolling program for generating random numbers as per requirement_
+&emsp;&emsp;[dice_roller](/Tools/dice_roller/dice_roller.py) by [Daniel Jake O'Brien](https://github.com/DanielJ-OBrien)
