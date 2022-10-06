@@ -1,3 +1,5 @@
+# Author - DanielJ-OBrien
+
 import random
 print("Welcome to: Rock, Paper, Scissors!")
 
