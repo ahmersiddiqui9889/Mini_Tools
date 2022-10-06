@@ -6,15 +6,14 @@ This repository contains **mini programs** for your requirements like - _number 
 👾 [**Games**](/Games): This folder contains mini games.
 
 ## 👨🏻‍💻 How to contribute?
-💡 [IDEAS](## IDEAS): Contains ideas for tools that can be made. <br>
+💡 [Ideas Section](#ideas): Contains ideas for tools that can be made. <br>
 🤝 You can make the programs which can help other people. <br>
-❓ You can also refer to IDEAS.md for topics. <br>
-💭 If you have any other idea, you can also update it to IDEAS.md file
+❓ You can also refer to [Ideas](#ideas) for topics. <br>
+💭 If you have any other idea, you can also update it to Ideas section of readme.
 
 #### <i>Contributions are always welcome! 🫂<br>
-No matter how insignificant or miniscule contribution you make, it will be always appreciated.</i>
-## Thankyou 😊
-
+No matter how insignificant or miniscule contribution you make, it will be always appreciated.</i><br>
+## Ideas
 #### 1. Snake Game
 _Classic game in which a snake turns using the up,down,left,right keys._
 - [snake.py](/Games/snake_game/snake.py) by [peppergreen00](https://github.com/peppergreen00)
@@ -47,5 +46,3 @@ _..._
 #### 11. Tic Tac Toe
 _Classic Tic Tac Toe game_
 - [tictactoe](/Games/tic_tac_toe/tictactoe.py) by [anjalibarnwal31](https://github.com/anjalibarnwal31)
-
-
