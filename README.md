@@ -62,3 +62,14 @@ _Card game whose object is to be dealt cards having a higher count than those of
 _Script to perform Bruteforce attack/Dictionary attack on Gmail_<br>
 &emsp;&emsp;[dictionary_attack](/Tools/dictionary_attack/main.py) by [Nitin Kumar](https://github.com/nitinkumar30)
 
+<b> 12. Password Generator </b><br>
+_Script to generate a strong password_<br>
+&emsp;&emsp;[password_generator](/Tools/password_generator/password_generator.py) by [Jerry Zhu](https://github.com/Bobliuuu)
+
+<b> 13. KBC Quiz Game </b><br>
+_Popular KBC game with sounds and graphics_<br>
+&emsp;&emsp;[kbc.py](/Tools/kbc_quiz_game/kbc.py) by [Nitin Kumar](https://github.com/nitinkumar30)
+
+<b> 14. Stenography Project </b><br>
+_Encrypt or decrypt messages without letting the other person understand your secret message_<br>
+&emsp;&emsp;[stenography_project](/Tools/stenography_project) by [Nitin Kumar](https://github.com/nitinkumar30)
