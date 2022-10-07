@@ -86,7 +86,7 @@ _Encrypt or decrypt messages without letting the other person understand your se
 
 <b>4. Touch Typing Tutorial</b><br>
 &emsp;&emsp;program for teaching a user 'touch typing'<br>
-touch typing refers to typing without looking at keyboard
+&emsp;&emsp;touch typing refers to typing without looking at keyboard
 
 <b></b><br>
 &emsp;&emsp;
