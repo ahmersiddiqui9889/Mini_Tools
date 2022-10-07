@@ -56,7 +56,7 @@ _Download youtube videos just by providing youtube link_<br>
 
 <b> 10. Black Jack Game </b><br>
 _Card game whose object is to be dealt cards having a higher count than those of the dealer, up to but not exceeding 21_<br>
-&emsp;&emsp;[black_jack](/Tools/black_jack/black_jack.py) by [Akshat Bhat](https://github.com/AkshatBhat)
+&emsp;&emsp;[black_jack](/Games/black_jack/black_jack.py) by [Akshat Bhat](https://github.com/AkshatBhat)
 
 <b> 11. Gmail Dictionary Attack </b><br>
 _Script to perform Bruteforce attack/Dictionary attack on Gmail_<br>
