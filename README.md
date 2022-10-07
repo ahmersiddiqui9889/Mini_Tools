@@ -85,6 +85,8 @@ _Encrypt or decrypt messages without letting the other person understand your se
 &emsp;&emsp;program which determines the approx typing speed of user by making him type some paragraphs
 
 <b>4. Touch Typing Tutorial</b><br>
+&emsp;&emsp;program for teaching a user 'touch typing'<br>
+touch typing refers to typing without looking at keyboard
 
 <b></b><br>
 &emsp;&emsp;
