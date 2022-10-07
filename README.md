@@ -84,6 +84,8 @@ _Encrypt or decrypt messages without letting the other person understand your se
 <b>3. Typing Speed Test</b><br>
 &emsp;&emsp;program which determines the approx typing speed of user by making him type some paragraphs
 
+<b>4. Touch Typing Tutorial</b><br>
+
 <b></b><br>
 &emsp;&emsp;
 
