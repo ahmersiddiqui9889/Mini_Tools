@@ -6,14 +6,14 @@ This repository contains **mini programs** for your requirements like - _number 
 👾 [**Games**](/Games): This folder contains mini games.
 
 ## 👨🏻‍💻 How to contribute?
-💡 [Ideas Section](#ideas): Contains ideas for tools that can be made. <br>
+💡 [Index](#index): Contains index for tools that have been made by collaborators. <br>
 🤝 You can make the programs which can help other people. <br>
 ❓ You can also refer to [Ideas](#ideas) for topics. <br>
 💭 If you have any other idea, you can also update it to Ideas section of readme.
 
 #### <i>Contributions are always welcome! 🫂</i><br>
 No matter how insignificant or miniscule contribution you make, it will be always appreciated.</i><br>
-## Ideas
+## Index
 <b> 1. Snake Game </b><br>
 _Classic game in which a snake turns using the up,down,left,right keys._<br>
 &emsp;&emsp;[snake.py](/Games/snake_game/snake.py) by [peppergreen00](https://github.com/peppergreen00)<br>
@@ -72,3 +72,23 @@ _Popular KBC game with sounds and graphics_<br>
 <b> 14. Stenography Project </b><br>
 _Encrypt or decrypt messages without letting the other person understand your secret message_<br>
 &emsp;&emsp;[stenography_project](/Tools/stenography_project) by [Nitin Kumar](https://github.com/nitinkumar30)
+
+## Ideas
+
+<b>1. Bulk Rename</b><br>
+&emsp;&emsp;bulk rename tool which renames multiple files
+
+<b>2. Flappy Bird</b><br>
+&emsp;&emsp;game in which a bird flies its way through obstacles by clicking/tapping
+
+<b>3. Typing Speed Test</b><br>
+&emsp;&emsp;program which determines the approx typing speed of user by making him type some paragraphs
+
+<b></b><br>
+&emsp;&emsp;
+
+<b></b><br>
+&emsp;&emsp;
+
+<b></b><br>
+&emsp;&emsp;
