@@ -45,6 +45,7 @@ _A simple calculator (GUI / Non GUI)_<br>
 <b> 7. Tic Tac Toe </b><br>
 _Classic Tic Tac Toe game_<br>
 &emsp;&emsp;[tictactoe](/Games/tic_tac_toe/tictactoe.py) by [anjalibarnwal31](https://github.com/anjalibarnwal31)<br>
+&emsp;&emsp;[tic-tac-toe.apk](/Games/tic_tac_toe) by [aniketh911](https://github.com/aniketh911)<br>
 
 <b> 8. Dice Roller </b><br>
 _Dice rolling program for generating random numbers as per requirement_<br>
