@@ -75,6 +75,10 @@ _Popular KBC game with sounds and graphics_<br>
 _Encrypt or decrypt messages without letting the other person understand your secret message_<br>
 &emsp;&emsp;[stenography_project](/Tools/stenography_project) by [Nitin Kumar](https://github.com/nitinkumar30)
 
+<b> 8. Coinflip </b><br>
+_Flips a coin for heads or tails_<br>
+&emsp;&emsp;[dice_roller](/Tools/flip_a_coin/flip_a_coin.py) by [DanielJ-OBrien](https://github.com/DanielJ-OBrien)
+
 ## Ideas
 
 <b>1. Bulk Rename</b><br>
