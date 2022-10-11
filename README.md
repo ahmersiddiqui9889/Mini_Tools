@@ -31,7 +31,7 @@ _A random number generator_<br>
 
 <b> 4. Rock Paper Scissor </b><br>
 _Game in which user will play stone paper scissors with the bot_<br>
-&emsp;&emsp;[rock_paper_scissors.py](/Games/rock_paper_scissors/rock_paper_scissors.py) by [Daniel Jake O'Brien](https://github.com/DanielJ-OBrien)<br>
+&emsp;&emsp;[rock_paper_scissors.py](/Games/rock_paper_scissors/rock_paper_scissors.py) by [DanielJ-OBrien](https://github.com/DanielJ-OBrien)<br>
 
 <b> 5. Dual Dice </b><br>
 _A tool which can help when their is no dice for playing a game like backgammon_<br>
@@ -49,7 +49,7 @@ _Classic Tic Tac Toe game_<br>
 
 <b> 8. Dice Roller </b><br>
 _Dice rolling program for generating random numbers as per requirement_<br>
-&emsp;&emsp;[dice_roller](/Tools/dice_roller/dice_roller.py) by [Daniel Jake O'Brien](https://github.com/DanielJ-OBrien)
+&emsp;&emsp;[dice_roller](/Tools/dice_roller/dice_roller.py) by [DanielJ-OBrien](https://github.com/DanielJ-OBrien)
 
 <b> 9. Youtube Downloader </b><br>
 _Download youtube videos just by providing youtube link_<br>
