@@ -79,6 +79,10 @@ _Encrypt or decrypt messages without letting the other person understand your se
 _Flips a coin for heads or tails_<br>
 &emsp;&emsp;[dice_roller](/Tools/flip_a_coin/flip_a_coin.py) by [DanielJ-OBrien](https://github.com/DanielJ-OBrien)
 
+<b>16. Typing Speed Test 📈</b><br>
+_Program which determines the approx typing speed of user by making him type some paragraphs_<br>
+&emsp;&emsp;[typing_test](/Tools/typing_test) by [shruti73](https://github.com/shruti73)<br><br>
+
 ## Ideas
 
 <b>1. Bulk Rename 📦</b><br>
@@ -86,9 +90,6 @@ _Flips a coin for heads or tails_<br>
 
 <b>2. Flappy Bird 🐦</b><br>
 &emsp;&emsp;Game in which a bird flies its way through obstacles by clicking/tapping
-
-<b>3. Typing Speed Test 📈</b><br>
-&emsp;&emsp;Program which determines the approx typing speed of user by making him type some paragraphs
 
 <b>4. Touch Typing Tutorial ⌨️</b><br>
 &emsp;&emsp;Program for teaching a user 'touch typing'. Touch typing refers to typing without looking at keyboard
