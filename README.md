@@ -81,11 +81,17 @@ _Flips a coin for heads or tails_<br>
 
 <b>16. Typing Speed Test 📈</b><br>
 _Program which determines the approx typing speed of user by making him type some paragraphs_<br>
-&emsp;&emsp;[typing_test](/Tools/typing_test) by [shruti73](https://github.com/shruti73)<br><br>
+&emsp;&emsp;[typing_test](/Tools/typing_test) by [shruti73](https://github.com/shruti73)
 
 <b>17. Tetris Game 🏢</b><br>
 _Prevent the blocks from stacking up to the top of the screen for as long as possible_<br>
-&emsp;&emsp;[tetris](/Games/tetris) by [darkrain0](https://github.com/darkrain0)<br><br>
+&emsp;&emsp;[tetris](/Games/tetris) by [darkrain0](https://github.com/darkrain0)
+
+<b>18. BMI Calculator</b><br>
+_Calculate the BMI by giving required data as input_<br>
+&emsp;&emsp;[bmi_calculator](/Games/bmi_calculator) by [darkrain0](https://github.com/darkrain0)
+
+***
 
 ## Ideas
 
