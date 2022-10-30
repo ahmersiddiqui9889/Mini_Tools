@@ -94,6 +94,7 @@ _Calculate the BMI by giving required data as input_<br>
 <b>19. Random Date</b><br>
 _Generate a random date_<br>
 &emsp;&emsp;[random_date](/Games/random_date) by [PRO-GUNE](https://github.com/PRO-GUNE)
+
 ***
 
 ## Ideas
