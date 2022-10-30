@@ -104,8 +104,8 @@ _Generate a random date_<br>
 <b>2. Flappy Bird 🐦</b><br>
 &emsp;&emsp;Game in which a bird flies its way through obstacles by clicking/tapping
 
-<b>4. Touch Typing Tutorial ⌨️</b><br>
+<b>3. Touch Typing Tutorial ⌨️</b><br>
 &emsp;&emsp;Program for teaching a user 'touch typing'. Touch typing refers to typing without looking at keyboard
 
-<b>5. Journal Maker 📒</b><br>
+<b>4. Journal Maker 📒</b><br>
 &emsp;&emsp;A simple text editing app which appends current date and time before entering text
