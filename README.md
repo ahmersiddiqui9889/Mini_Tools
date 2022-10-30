@@ -91,6 +91,9 @@ _Prevent the blocks from stacking up to the top of the screen for as long as pos
 _Calculate the BMI by giving required data as input_<br>
 &emsp;&emsp;[bmi_calculator](/Games/bmi_calculator) by [darkrain0](https://github.com/darkrain0)
 
+<b>19. Random Date</b><br>
+_Generate a random date_<br>
+&emsp;&emsp;[random_date](/Games/random_date) by [PRO-GUNE](https://github.com/PRO-GUNE)
 ***
 
 ## Ideas
@@ -106,9 +109,3 @@ _Calculate the BMI by giving required data as input_<br>
 
 <b>5. Journal Maker 📒</b><br>
 &emsp;&emsp;A simple text editing app which appends current date and time before entering text
-
-<b></b><br>
-&emsp;&emsp;
-
-<b></b><br>
-&emsp;&emsp;
