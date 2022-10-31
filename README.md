@@ -110,3 +110,10 @@ _Generate a random date_<br>
 
 <b>4. Journal Maker 📒</b><br>
 &emsp;&emsp;A simple text editing app which appends current date and time before entering text
+
+***
+
+## Other Repository
+You could also contribute to [Logic_Builder](https://github.com/Gupta-Shashwat/Logic_Builder) by [Shashwat-Gupta](https://github.com/Gupta-Shashwat/Logic_Builder) through :-
+* Adding problems as well as solutions for problems
+* Adding algorithms for solving a problem effeciently
